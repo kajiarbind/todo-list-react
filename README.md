@@ -1,3 +1,5 @@
+# This App is built from Reach Crash Crouse by Traversy Media
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
